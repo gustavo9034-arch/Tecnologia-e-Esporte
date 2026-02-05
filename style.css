@@ -29,9 +29,9 @@ body {
 
 .topo-direita video {
   width: 100%;
-  height: 110%;
+  height: 100%;
   object-fit: cover;
-  transform: translateY(-5%);
+  object-position: center 30%;
 }
 
 .menu {
@@ -73,4 +73,5 @@ body {
   width: 100%;
   height: 100%;
   border: none;
+
 }
